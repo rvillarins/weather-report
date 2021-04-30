@@ -1,5 +1,4 @@
 # weather-report
-This is a responsive climate application as a source of real-time weather report for the user.
 
 In order to test the project, perform the following modifications in the "code.js" file:
 - insert the darksky API access key into the "key" variable 
